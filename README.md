@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Omar 👋
 
-<!--
-**OmarAbdelrahmn/OmarAbdelrahmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer specialized in ASP.NET Core and SQL Server.
+I enjoy building scalable APIs and clean backend architectures.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- C# / .NET (ASP.NET Core, EF Core)
+- SQL Server
+- REST APIs
+- JWT Authentication
+- Hangfire
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I’m working on
+- Building production-ready .NET backend projects
+- Improving system design and architecture
+- Practicing problem-solving (LeetCode)
+
+## 📚 Currently learning
+- Advanced backend patterns
+- Performance optimization
+- Clean Architecture
+
+## 📫 Contact
+- GitHub: https://github.com/your-username
+- LinkedIn: (add when ready)
