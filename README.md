@@ -1,9 +1,10 @@
 
 # Hi, I'm Omar Abdelrahman 👋
+### 👨‍💻 Backend Developer
 
-Backend Developer with a strong focus on **ASP.NET Core** and **SQL Server**, experienced in building
-scalable, production-ready APIs.  
-I also work with **Next.js** to build modern frontend interfaces that integrate cleanly with backend systems.
+Backend Developer with deep experience in **ASP.NET Core**, **Entity Framework Core**, and **SQL Server**, focused on designing **scalable, maintainable, production-grade APIs**.  
+Alongside backend development, I use **Next.js** to build modern frontend applications tightly integrated with backend services.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/omar-abdelrhman/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omar.abdelrahman.eng@gmail.com) 
@@ -15,8 +16,6 @@ I also work with **Next.js** to build modern frontend interfaces that integrate 
 ![](https://nirzak-streak-stats.vercel.app/?user=OmarAbdelrahmn&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAbdelrahmn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
----
 [![](https://visitcount.itsvg.in/api?id=OmarAbdelrahmn&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
