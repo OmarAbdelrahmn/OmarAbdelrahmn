@@ -1,22 +1,9 @@
 
-# Hi, I'm Omar Nakhlyan 👋
+# Hi, I'm Omar Abdelrahman 👋
 
 Backend Developer with a strong focus on **ASP.NET Core** and **SQL Server**, experienced in building
 scalable, production-ready APIs.  
 I also work with **Next.js** to build modern frontend interfaces that integrate cleanly with backend systems.
-
----
-
-## 👨‍💻 What I Do
-- Design and build **RESTful APIs** using ASP.NET Core
-- Implement **Clean Architecture** and layered backend designs
-- Work with **Entity Framework Core** and complex SQL queries
-- Handle **authentication & authorization** (JWT, role-based access)
-- Build background jobs and scheduling with **Hangfire**
-- Develop frontend applications using **Next.js** and React
-- Integrate frontend apps with backend APIs
-- Debug, optimize, and refactor existing systems
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/omar-abdelrhman/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omar.abdelrahman.eng@gmail.com) 
