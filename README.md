@@ -1,81 +1,21 @@
-# Hi, I'm Omar Nakhlyan 👋
 
-Backend Developer with a strong focus on **ASP.NET Core** and **SQL Server**, experienced in building
-scalable, production-ready APIs.  
-I also work with **Next.js** to build modern frontend interfaces that integrate cleanly with backend systems.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/omar-abdelrhman/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omar.abdelrahman.eng@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=OmarAbdelrahmn&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=OmarAbdelrahmn&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAbdelrahmn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 👨‍💻 What I Do
-- Design and build **RESTful APIs** using ASP.NET Core
-- Implement **Clean Architecture** and layered backend designs
-- Work with **Entity Framework Core** and complex SQL queries
-- Handle **authentication & authorization** (JWT, role-based access)
-- Build background jobs and scheduling with **Hangfire**
-- Develop frontend applications using **Next.js** and React
-- Integrate frontend apps with backend APIs
-- Debug, optimize, and refactor existing systems
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=OmarAbdelrahmn&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-
-## 🛠 Tech Stack
-
-### Backend
-- C#, .NET, ASP.NET Core Web API
-- Entity Framework Core
-- SQL Server
-- REST APIs
-- JWT Authentication
-- Hangfire
-- Swagger / OpenAPI
-
-### Frontend
-- Next.js
-- React
-- TypeScript
-- HTML, CSS
-
-### Tools & Concepts
-- Git & GitHub
-- Clean Architecture
-- SOLID Principles
-- Async / Await
-- API Performance Optimization
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=OmarAbdelrahmn&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📂 Projects & Work
-- Built multiple **CRUD-based systems** (To-Do, Student Management, Order & Rider Systems)
-- Developed **real-world backend APIs** with complex business logic
-- Worked on **hotel booking & cancellation policy systems**
-- Designed APIs supporting large datasets (200k+ records)
-- Integrated backend services with **Next.js frontend applications**
-- Implemented Swagger-based API documentation for all projects
-
----
-
-## 📚 Currently Working On
-- Advanced ASP.NET Core backend patterns
-- Improving API performance and scalability
-- Building full-stack apps using **Next.js + .NET APIs**
-- Practicing algorithmic problem solving (LeetCode)
-
----
-
-## 🎯 Goals
-- Become a strong backend engineer with system design expertise
-- Build end-to-end production-ready applications
-- Improve English communication and technical writing
-- Gain deeper experience in full-stack development
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
-
-## 📫 Contact
-- GitHub: https://github.com/YOUR_USERNAME
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
